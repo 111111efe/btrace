@@ -11,7 +11,7 @@ cache:
   - $HOME/.sdkman
 language: java
 jdk:
-- openjdk11
+- openjdk15
 
 notifications:
   webhooks:
